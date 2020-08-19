@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 🧑‍💻, I'm Madhusudhan:
+🏢 Current working at SyneBytes
+🔭 currently working react projects
+💬 Ask me about web development, react full stack, java developer
+
+
 
 <!--
 **Neo3labs/Neo3labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
