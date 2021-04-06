@@ -1,7 +1,7 @@
-Hi there 🧑‍💻, I'm Madhusudhan:
-🏢 Current working at SyneBytes
-🔭 currently working react projects
-💬 Ask me about web development, react full stack, java developer
+Hi there 🧑‍💻,<br /> I'm Madhusudhan:<br />
+🏢 Current working at SyneBytes<br />
+🔭 currently working react and java projects<br />
+💬 Ask me about web development, react full stack, java developer<br />
 
 
 
@@ -10,7 +10,7 @@ Hi there 🧑‍💻, I'm Madhusudhan:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
