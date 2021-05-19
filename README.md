@@ -1,7 +1,7 @@
 Hi there 🧑‍💻,<br /> I'm Madhusudhan:<br />
 🏢 Current working at SyneBytes<br />
 🔭 currently working react and java projects<br />
-💬 Ask me about web development, react full stack, java developer<br />
+💬 Ask me about web development, microservices, react full stack, java developer<br />
 
 
 
