@@ -1,8 +1,8 @@
 Hi there 🧑‍💻,<br /> I'm Madhusudhan:<br />
-🏢 Current working at SyneBytes<br />
-🔭 currently working react and java projects<br />
-💬 Ask me about web development, microservices, react full stack, java developer, AWS<br />
-
+🏢 Current working as Consultant<br />
+🔭 currently working Microservices, Spring Boot projects<br />
+💬 Ask me about Web Development, Microservices Architecture, Spring Boot, Spring, Java developer, AWS<br />
+🌱 I’m currently exploring Cloud AWS<br />
 
 
 <!--
