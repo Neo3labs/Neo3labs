@@ -1,6 +1,6 @@
 Hi there 🧑‍💻,<br /> I'm Madhusudhan:<br />
 🏢 Current working as Consultant<br />
-🔭 currently working Microservices, Spring Boot projects<br />
+🔭 Currently working Microservices, Spring Boot projects<br />
 💬 Ask me about Web Development, Microservices Architecture, Spring Boot, Spring, Java developer, AWS<br />
 🌱 I’m currently exploring Cloud AWS<br />
 
